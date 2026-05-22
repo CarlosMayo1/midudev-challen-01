@@ -2,13 +2,6 @@
 
 El objetivo de esta prueba es diseñar e implementar una pequeña aplicación web de lista de libros utilizando las herramientas de tu elección.
 
-- [¿Cómo puedo participar?](https://github.com/midudev/pruebas-tecnicas#c%C3%B3mo-participar)
-- **La prueba está abierta a revisión hasta el 27 de julio de 2023**
-- Prueba basada en [esta prueba real para Juniors](https://discord.com/channels/741237973663612969/848944161448132628/1127729621744500806).
-
-Este proyecto busca probar tus habilidades en el manejo de interacciones con el usuario, gestión del estado, filtrado de datos y la estructuración del código.
-![Sin título-2023-03-24-0943 (1)](https://github.com/midudev/pruebas-tecnicas/assets/1561955/a829323d-07e6-4937-91c6-5498481148c5)
-
 ## Contexto
 
 Somos un sello editorial de libros multinacional. Queremos ofrecer a nuestro público una forma de ver nuestro catálogo y poder guardar los libros que les interesan en una lista de lectura.
@@ -90,6 +83,10 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+
+### Agradecimientos
+
+Esta es una prueba técnica propuesta por Miguel Ángel Dura - Midude para desarrolladores junior puedan practicar sus habilidadecs. Agradezco mucho la idea así como los recuros brindados que hacen posible que la comunidad suba al siguiente nivel. Si deseas conocer más sobre Midudev puedes visitar su repo: https://github.com/midudev
 
 ## React Compiler
 
