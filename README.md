@@ -58,16 +58,6 @@ Usa el archivo `books.json` para obtener los datos de los libros. Puedes añadir
 - Permitir la reorganización de los libros en la lista de lectura por prioridad.
 - Haz que tu diseño sea responsive.
 
-## Entrevista
-
-Si pasas a la siguiente fase, te pediremos que hagas una entrevista con nosotros. Durante la entrevista, te pediremos que expliques tu código y que hagas algunos cambios en el mismo.
-
-- Nos tendrás que explicar el código que has escrito y las decisiones que has tomado.
-- Haremos cambios en el JSON y tendrás que adaptar el código en vivo.
-- Añadiremos un nuevo filtro a la aplicación y tendrás que implementarlo.
-
-Buena suerte y ¡diviértete programando!
-
 ## Referencias
 
 - Diseño de Josh W. Comeau para una aplicación de libros pendientes de leer: https://twitter.com/JoshWComeau/status/1678893330480898049
@@ -78,6 +68,10 @@ Buena suerte y ¡diviértete programando!
 
 - Concepto de landing para una aplicación de libros: https://dribbble.com/shots/16279204-Book-Web-Store-Concept
 
+# Agradecimientos
+
+Esta es una prueba técnica propuesta por Miguel Ángel Dura - Midude para desarrolladores junior puedan practicar sus habilidadecs. Agradezco mucho la idea así como los recuros brindados que hacen posible que la comunidad suba al siguiente nivel. Si deseas conocer más sobre Midudev puedes visitar su repo: https://github.com/midudev
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -86,10 +80,6 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-### Agradecimientos
-
-Esta es una prueba técnica propuesta por Miguel Ángel Dura - Midude para desarrolladores junior puedan practicar sus habilidadecs. Agradezco mucho la idea así como los recuros brindados que hacen posible que la comunidad suba al siguiente nivel. Si deseas conocer más sobre Midudev puedes visitar su repo: https://github.com/midudev
 
 ## React Compiler
 
